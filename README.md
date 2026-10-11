@@ -2,14 +2,17 @@
 
 **NYouRa — New Ra — the new sun for your voice.**
 
-An open-source voice assistant powered by Google Gemini Live. Runs locally on your desktop, talks to Gemini over WebSocket, plays audio in real time.
+An open-source voice assistant client for Google Gemini Live.
+Local desktop app — microphone, playback, and API key stay on your machine.
+AI processing happens on Google's servers via their streaming API.
 
-![Nyoura Assistant](build/icon.ico)
+![Nyoura Assistant](build/icon.png)
 
 ## Features
 
 - **Real-time voice** — talk naturally, get instant voice replies
-- **Powered by Gemini Live** — Google's multimodal streaming API
+- **Local-first client** — mic, playback, and API key stay on your machine
+- **AI processing** — handled by Google Gemini Live (bring your own API key)
 - **Model selector** — switch between Gemini Live models on the fly
 - **Optional SOCKS5 proxy** — works behind corporate networks or restricted Wi-Fi
 - **Encrypted API key storage** — your Gemini key is encrypted with Windows DPAPI
@@ -31,3 +34,5 @@ An open-source voice assistant powered by Google Gemini Live. Runs locally on yo
 4. Click **Start** and start speaking.
 
 ## How it works
+
+[остальное содержимое твоего README оставь как есть]
